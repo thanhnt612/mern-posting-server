@@ -4,7 +4,7 @@
   "main": "index.js",
   "DeprecationWarning": "",
   "scripts": {
-    "start": "nodemon backend/index.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
